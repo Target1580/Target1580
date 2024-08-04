@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Target1580/Target1580/White Minimalist Profile LinkedIn Banner (1).png)](https://target1580.io)
+[![MasterHead](White Minimalist Profile LinkedIn Banner (1).png)](https://target1580.io)
 
 <h1 align="center">Hi 👋, I'm Tanmay Wadibhasme</h1>
 <h3 align="center">Aspiring DevOps Engineer | Lifelong Learner</h3>
