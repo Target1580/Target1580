@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFzdINPnxQ/vJ68sVWFlHCdzvKhNMorkA/view)](https://target1580.io)
+[![MasterHead](https://github.com/Target1580/Target1580/)](https://target1580.io)
 
 <h1 align="center">Hi 👋, I'm Tanmay Wadibhasme</h1>
 <h3 align="center">Aspiring DevOps Engineer | Lifelong Learner</h3>
