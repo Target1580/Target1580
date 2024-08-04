@@ -1,4 +1,4 @@
-![logo](https://github.com/Target1580/Target1580/blob/main/Github%20Banner.png)](https://target1580.io)
+![logo](https://github.com/Target1580/Target1580/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Tanmay Wadibhasme</h1>
 <h3 align="center">Aspiring DevOps Engineer | Lifelong Learner</h3>
