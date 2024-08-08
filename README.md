@@ -101,13 +101,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=target1580&show_icons=true&locale=en&layout=compact" alt="target1580" />
 </p>
 
-<p>&nbsp;</p>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=target1580&show_icons=true&locale=en" alt="target1580" />
 </p>
-
-<p>&nbsp;</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=target1580&" alt="target1580" />
