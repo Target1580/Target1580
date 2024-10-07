@@ -1,7 +1,7 @@
 <!-- Logo and Header -->
 ![logo](https://github.com/Target1580/Target1580/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 
-<h1 align="center">Hi 👋, I'm Tanmay Wadibhasme</h1>
+<h1 align="center">Hi 👋, I'm demo github</h1>
 <h3 align="center">Aspiring DevOps Engineer | Lifelong Learner</h3>
 
 <!-- Animated Coding Image -->
